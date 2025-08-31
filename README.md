@@ -2,6 +2,12 @@
 
 A simple web app that displays a draggable poker card and synchronizes its position across browser tabs using the BroadcastChannel API.
 
+## Demo
+
+[Live Demo](https://galileol.github.io/Poker-Cross-Tabs/)
+
+![Demo GIF](./public/showing.gif)
+
 ---
 
 一个简单的网页应用，展示可拖动的扑克牌，并通过 BroadcastChannel API 在多个浏览器标签页间同步其位置。
