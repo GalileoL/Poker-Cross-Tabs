@@ -38,5 +38,3 @@ public/            # Icons and manifest
 ## License / 许可证
 
 MIT
-
----
